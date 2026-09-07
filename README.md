@@ -221,8 +221,8 @@ Customer Segmentation Project/
 ### 1. Clone the repository
 
 ``` bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd "Customer Segmentation Project"
+git clone https://github.com/YogyaSrivastava134/Customer-Segmentation-Project.git
+cd "Customer-Segmentation-Project"
 ```
 
 ### 2. Install dependencies
