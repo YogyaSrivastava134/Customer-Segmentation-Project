@@ -206,13 +206,13 @@ Customer Segmentation Project/
 ## 🛠️ Technologies Used
 
 -   **Python**
--   **Pandas** --- data manipulation and analysis
--   **NumPy** --- numerical operations
--   **Scikit-learn** --- preprocessing, K-Means clustering, PCA, and
+-   **Pandas** - data manipulation and analysis
+-   **NumPy** - numerical operations
+-   **Scikit-learn** - preprocessing, K-Means clustering, PCA, and
     evaluation
--   **Matplotlib / Seaborn** --- data visualization
--   **Plotly** --- interactive dashboard charts
--   **Streamlit** --- interactive web dashboard
+-   **Matplotlib / Seaborn** - data visualization
+-   **Plotly** - interactive dashboard charts
+-   **Streamlit** - interactive web dashboard
 
 ------------------------------------------------------------------------
 
